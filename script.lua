@@ -1,23 +1,11 @@
 
 ([[
-                This script has been licensed using Luauth
-            Unauthorized distribution of this script is forbidden.
-      Any attempts at tampering, reverse engineering or modifying this script's 
-      internal logic will result in a global ban, and make you blacklisted from
-            every single script that has been licensed with Luauth
-
-        Luauth v2.6 for Roblox, #1 lua whitelisting system by Federal#9999
-				   https://luauth.xyz/
-
        ___                   _                  __  __       _                    
       / _ \ _   _  __ _ _ __| |_ _   _  __  __ |  \/  | ___ | | ___   _ _ __ ___  
      | | | | | | |/ _` | '__| __| | | | \ \/ / | |\/| |/ _ \| |/ / | | | '__/ _ \ 
      | |_| | |_| | (_| | |  | |_| |_| |  >  <  | |  | | (_) |   <| |_| | | | (_) |
       \__\_\\__,_|\__,_|_|   \__|\__, | /_/\_\ |_|  |_|\___/|_|\_\\__,_|_|  \___/ 
                                  |___/                                            
-
-                                                     
-                 Script ID: 85a624e6f097ba676b15537ffc7cc660
 ]])
 
 
